@@ -1,0 +1,5 @@
+*.o
+*.swp
+life
+compressed_life
+simd_life
